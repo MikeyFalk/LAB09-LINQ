@@ -1,7 +1,7 @@
 ﻿# LINQ
 
 **Author**: Mike Falk
-**Version**: 1.0.0 
+**Version**: 2.0.0 
 
 ## Overview
 Create a program that brings in data from an external file, reads the data, and can filter the data based on specified values.
@@ -17,4 +17,5 @@ Create a program that brings in data from an external file, reads the data, and 
 
 ## Change Log
 
-01-21-2021 4:13pm - Installed NewtonSoftJson with NuGet, added README and imported data.json file to meet lab requiurements.
+01-30-2021 2:58pm - After getting Bade's help with JSONConvert deserialization I was able to complete the lab and write functioning LINQ queries  
+01-21-2021 4:13pm - Installed NewtonSoftJson with NuGet, added README and imported data.json file to meet lab requirements.
